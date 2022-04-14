@@ -16,5 +16,14 @@
       <description>Usa este post para anotar tus expectativas de la misión.</description>
     </item>
     
+    <item>
+      <title>Mi primer Post</title>
+      <link>https://luisengarman.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luisengarman.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Disculpen, ando algo atrasado y todo por la escuela y el servicio social. Este curso es muy importante ta,bien pero estoy saturado de tiempo, espero se pueda entender.</description>
+    </item>
+    
   </channel>
 </rss>
