@@ -1,5 +1,5 @@
 ---
-Title: "Culturade un buen desarollador"
+Title: "Cultura de un buen desarollador"
 Date: 2022-02-21T18:16:21-06:00
 Description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
